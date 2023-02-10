@@ -1,5 +1,3 @@
-# HanndaiConnectBackend
-
 ## 環境構築
 
 - air（ホットリロード）のインストール
